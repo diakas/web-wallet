@@ -67,7 +67,9 @@ Email Address []:admin@your_domain.com
 
 git clone https://github.com/diakas/web-wallet.git
 
+cd web-wallet
 
+cp ./settings.json.template ./settings.json
 
 
 ## Configuring:
