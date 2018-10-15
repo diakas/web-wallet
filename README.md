@@ -63,6 +63,13 @@ Email Address []:admin@your_domain.com
  Note: Also copy the crt and key file to the {nodejs}/sslcert directory. Change the owner to that of the nodejs process, then make sure your settings.json SSL parameters have the correct file-names for your key and crt files.
 
 
+## INSTALL:
+
+git clone https://github.com/diakas/web-wallet.git
+
+
+
+
 ## Configuring:
 
 Configure the database connection parameters, localizations and features of Web-Wallet by copying 'settings.json.template' to 'settings.json' and making your changes in 'settings.json'.
