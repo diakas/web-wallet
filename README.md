@@ -69,6 +69,10 @@ git clone https://github.com/diakas/web-wallet.git
 
 cd web-wallet
 
+apt install libkrb5-dev ??????? need ????
+
+npm install --production
+
 cp ./settings.json.template ./settings.json
 
 npm install supervisor -g
