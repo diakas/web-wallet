@@ -71,6 +71,8 @@ cd web-wallet
 
 cp ./settings.json.template ./settings.json
 
+npm install supervisor -g
+
 
 ## Configuring:
 
